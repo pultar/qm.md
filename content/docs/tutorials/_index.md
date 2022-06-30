@@ -39,7 +39,7 @@ Find here a growing list of tutorials.
 
 ## pDynamo
 
-- [GTKDynamo and EasyHybrid series](https://sites.google.com/site/gtkdynamo/tutorials) (Jose Fernando R Bachega)
+- [GTKDynamo and EasyHybrid series](https://sites.google.com/site/gtkdynamo/tutorials) by Jose Fernando R Bachega
   - [Cyclohexane reaction path](https://sites.google.com/site/gtkdynamo/tutorials/tutorial-1)
   - [SN2 reaction - part 1](https://sites.google.com/site/gtkdynamo/tutorials/2---sn2---reaction-part---1)
   - [SN2 reaction - part 2](https://sites.google.com/site/gtkdynamo/tutorials/2---sn2---reaction-part---1-1)
