@@ -6,66 +6,45 @@ title: "Tutorials"
 
 # Introduction
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+Find here a growing list of tutorials.
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
+## General
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
+- [YouTube channel](https://www.youtube.com/user/HPC2N) of the High Performance Computing Center North @ Umeå University, Sweden
+  - [Best practices for QM/MM](https://www.youtube.com/watch?v=K4A-yd_UpB8&list=PL6jMHLEmPVLzrmSfqoCQsIf-8nRKh3dLB)
+- [Best practices in QM/MM simulations of biomolecular systems](https://bioexcel.eu/events/virtual-workshop-best-practices-in-qm-mm-simulation-of-biomolecular-systems/) by the BioExcel Centre of Excellence
 
-## Est simul fameque tauri qua ad
+## GROMACS
 
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
+- [Beginner tutorials series](http://www.mdtutorials.com/gmx/index.html) by Justin A. Lemkul, Virginia Tech
+  - [Setting up simulations](http://www.mdtutorials.com/gmx/lysozyme/index.html)
+  - [Simulation of membrane proteins](http://www.mdtutorials.com/gmx/membrane_protein/index.html)
+  - [Umbrella sampling](http://www.mdtutorials.com/gmx/umbrella/index.html)
+  - [Biphasic systems](http://www.mdtutorials.com/gmx/biphasic/index.html)
+  - [Protein/ligand interactions](http://www.mdtutorials.com/gmx/complex/index.html)
+  - [Free energy calculations](http://www.mdtutorials.com/gmx/free_energy/index.html)
+  - [Virtual sites](http://www.mdtutorials.com/gmx/vsites/index.html)
 
-## Me sol
+- [GROMACS/cp2k QM/MM MD tutorial series](https://docs.bioexcel.eu/2021-04-22-qmmm-gromacs-cp2k/) by the BioExcel Centre of Excellence
+  - [Introduction to QM/MM - First part](https://www.youtube.com/watch?v=kZrGWcVcuFM)
+  - [First Q&A session](https://www.youtube.com/watch?v=yoG8UMGNuPo)
+  - [First practical session](https://www.youtube.com/watch?v=ZPdOLBRDxPU&list=PLzLqYW5ci-2dvlvgySfQDu-TKkr3fHSIA)
+  - [Introduction to QM/MM - Second part](https://www.youtube.com/watch?v=Y5Uy4y86Yus)
+  - [Second Q&A session](https://www.youtube.com/watch?v=p5khT-4WXiE)
+  - [Second practical session](https://www.youtube.com/watch?v=rw5CZD5wQOs)
+  - [Introduction to QM/MM - Third part](https://www.youtube.com/watch?v=s2Z5pV9b6z8)
+  - [Third Q&A session](https://www.youtube.com/watch?v=FrsTNQPSChE)
+  - [cp2k parameter special](https://www.youtube.com/watch?v=cAsmm5WaJc8)
+  - [Third practical session](https://www.youtube.com/watch?v=jhsHRliw1sU)
 
-Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
-iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
-vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
-cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
-[progenies](http://www.late.net/alimentavirides) nuribus rustica tinguet. Pater
-omnes liquido creditis noctem.
+## pDynamo
 
-    if (mirrored(icmp_dvd_pim, 3, smbMirroredHard) != lion(clickImportQueue,
-            viralItunesBalancing, bankruptcy_file_pptp)) {
-        file += ip_cybercrime_suffix;
-    }
-    if (runtimeSmartRom == netMarketingWord) {
-        virusBalancingWin *= scriptPromptBespoke + raster(post_drive,
-                windowsSli);
-        cd = address_hertz_trojan;
-        soap_ccd.pcbServerGigahertz(asp_hardware_isa, offlinePeopleware, nui);
-    } else {
-        megabyte.api = modem_flowchart - web + syntaxHalftoneAddress;
-    }
-    if (3 < mebibyteNetworkAnimated) {
-        pharming_regular_error *= jsp_ribbon + algorithm * recycleMediaKindle(
-                dvrSyntax, cdma);
-        adf_sla *= hoverCropDrive;
-        templateNtfs = -1 - vertical;
-    } else {
-        expressionCompressionVariable.bootMulti = white_eup_javascript(
-                table_suffix);
-        guidPpiPram.tracerouteLinux += rtfTerabyteQuicktime(1,
-                managementRosetta(webcamActivex), 740874);
-    }
-    var virusTweetSsl = nullGigo;
-
-## Trepident sitimque
-
-Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
-mediis; dolor? Vidit imi **Aeacon** perfida propositos adde, tua Somni Fluctibus
-errante lustrat non.
-
-Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
-ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
-crescendo vigor ululasse vertice *exspatiantur* celer tepidique petita aversata
-oculis iussa est me ferro.
+- [GTKDynamo and EasyHybrid series](https://sites.google.com/site/gtkdynamo/tutorials) (Jose Fernando R Bachega)
+  - [Cyclohexane reaction path](https://sites.google.com/site/gtkdynamo/tutorials/tutorial-1)
+  - [SN2 reaction - part 1](https://sites.google.com/site/gtkdynamo/tutorials/2---sn2---reaction-part---1)
+  - [SN2 reaction - part 2](https://sites.google.com/site/gtkdynamo/tutorials/2---sn2---reaction-part---1-1)
+  - [My first QC/MM system](https://sites.google.com/site/gtkdynamo/tutorials/3---my-first-qmmm)
+  - [Building a system using Ambertools](https://sites.google.com/site/gtkdynamo/tutorials/4---enzyme-reaction-part---1)
+  - [Charges per block](https://sites.google.com/site/gtkdynamo/tutorials/5---charges-per-block)
+  - [Enzyme reaction](https://sites.google.com/site/gtkdynamo/tutorials/6---enzyme-reaction)
+  - [Umbrella sampling](https://sites.google.com/site/gtkdynamo/tutorials/7---umbrella-sampling)
