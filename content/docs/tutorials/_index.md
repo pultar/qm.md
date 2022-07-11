@@ -14,15 +14,13 @@ Find here a growing list of tutorials.
   - [Best practices for QM/MM](https://www.youtube.com/watch?v=K4A-yd_UpB8&list=PL6jMHLEmPVLzrmSfqoCQsIf-8nRKh3dLB)
 - [Best practices in QM/MM simulations of biomolecular systems](https://bioexcel.eu/events/virtual-workshop-best-practices-in-qm-mm-simulation-of-biomolecular-systems/) by the BioExcel Centre of Excellence
 
-### [Ensembler](https://github.com/rinikerlab/Ensembler)
-Is a tool for fast prototyping or teaching principles of modelling with simulations. It is a python package, that can be used directly with google colab or installed via pip. [Ries, Linker, Hahn, 2022](https://doi.org/10.1021/acs.jcim.0c01283)
-#### Introductions to:
-- Potentials used for Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Tutorial_Potentials.ipynb)
-- First Simulations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Tutorial_Simulations.ipynb)
-- Enhanced Sampling Methods: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EnhancedSampling.ipynb)
-- Free Energy Calculation Methods: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_FreeEnergyCalculationSimulation.ipynb)
-- The Conveyorbelt Integration Scheme (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_ConveyorBelt.ipynb)
-- Enveloping Distribution Sampling (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EDS.ipynb)
+- [Ensembler](https://github.com/rinikerlab/Ensembler) is a tool for fast prototyping or teaching principles of molecular simulations. Ensembler is a Python package that can be used directly with Google Colab or installed via PIP ([B. Ries, S. Linker, D. F. Hahn, G. König, S. Riniker, JCIM 2021, 61, 2, 560](https://doi.org/10.1021/acs.jcim.0c01283)). Check out examples including:
+  - Potentials used for Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Tutorial_Potentials.ipynb)
+  - First Simulations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Tutorial_Simulations.ipynb)
+  - Enhanced Sampling Methods: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EnhancedSampling.ipynb)
+  - Free Energy Calculations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_FreeEnergyCalculationSimulation.ipynb)
+  - The Conveyorbelt Integration Scheme (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_ConveyorBelt.ipynb)
+  - Enveloping Distribution Sampling (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EDS.ipynb)
 
 
 ## GROMACS
