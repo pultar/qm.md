@@ -4,8 +4,9 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Introduction #  Find here a growing list of tutorials.
-General #   YouTube channel of the High Performance Computing Center North @ Umeå University, Sweden  Best practices for QM/MM   Best practices in QM/MM simulations of biomolecular systems by the BioExcel Centre of Excellence  GROMACS #    Beginner tutorials series by Justin A. Lemkul, Virginia Tech
- Setting up simulations Simulation of membrane proteins Umbrella sampling Biphasic systems Protein/ligand interactions Free energy calculations Virtual sites    GROMACS/cp2k QM/MM MD tutorial series by the BioExcel Centre of Excellence">
+General #    YouTube channel of the High Performance Computing Center North @ Umeå University, Sweden
+ Best practices for QM/MM    Best practices in QM/MM simulations of biomolecular systems by the BioExcel Centre of Excellence
+  Ensembler is a tool for fast prototyping or teaching principles of molecular simulations. Ensembler is a Python package that can be used directly with Google Colab or installed via PIP (B.">
 <meta name="theme-color" content="#FFFFFF">
 <meta name="color-scheme" content="light dark"><meta property="og:title" content="Tutorials" />
 <meta property="og:description" content="" />
@@ -17,7 +18,7 @@ General #   YouTube channel of the High Performance Computing Center North @ Ume
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.97cfda4f5e3c9fa49a2bf8d401f4ddc0eec576c99cdcf6afbec19173200c37db.css" integrity="sha256-l8/aT148n6SaK/jUAfTdwO7Fdsmc3PavvsGRcyAMN9s=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.56e4b161121b4872b14291a1ec166fbba643c72c438e153555d10faad3105d91.js" integrity="sha256-VuSxYRIbSHKxQpGh7BZvu6ZDxyxDjhU1VdEPqtMQXZE=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.aadfc8d5c46fb91a4b853787ea5a9c8c0d9b9b10cfb6c4757ebe8f62e4f0987a.js" integrity="sha256-qt/I1cRvuRpLhTeH6lqcjA2bmxDPtsR1fr6PYuTwmHo=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="https://qm.md/docs/tutorials/index.xml" title="QM/MM Resources" />
 <!--
 Made with Book Theme
@@ -156,6 +157,7 @@ https://github.com/alex-shpak/hugo-book
         <li><a href="#general">General</a></li>
         <li><a href="#gromacs">GROMACS</a></li>
         <li><a href="#pdynamo">pDynamo</a></li>
+        <li><a href="#orca">ORCA</a></li>
       </ul>
     </li>
   </ul>
@@ -180,12 +182,26 @@ https://github.com/alex-shpak/hugo-book
   <a class="anchor" href="#general">#</a>
 </h2>
 <ul>
-<li><a href="https://www.youtube.com/user/HPC2N">YouTube channel</a> of the High Performance Computing Center North @ Umeå University, Sweden
+<li>
+<p><a href="https://www.youtube.com/user/HPC2N">YouTube channel</a> of the High Performance Computing Center North @ Umeå University, Sweden</p>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=K4A-yd_UpB8&amp;list=PL6jMHLEmPVLzrmSfqoCQsIf-8nRKh3dLB">Best practices for QM/MM</a></li>
 </ul>
 </li>
-<li><a href="https://bioexcel.eu/events/virtual-workshop-best-practices-in-qm-mm-simulation-of-biomolecular-systems/">Best practices in QM/MM simulations of biomolecular systems</a> by the BioExcel Centre of Excellence</li>
+<li>
+<p><a href="https://bioexcel.eu/events/virtual-workshop-best-practices-in-qm-mm-simulation-of-biomolecular-systems/">Best practices in QM/MM simulations of biomolecular systems</a> by the BioExcel Centre of Excellence</p>
+</li>
+<li>
+<p><a href="https://github.com/rinikerlab/Ensembler">Ensembler</a> is a tool for fast prototyping or teaching principles of molecular simulations. Ensembler is a Python package that can be used directly with Google Colab or installed via PIP (<a href="https://doi.org/10.1021/acs.jcim.0c01283">B. Ries, S. Linker, D. F. Hahn, G. König, S. Riniker, JCIM 2021, 61, 2, 560</a>). Check out examples including:</p>
+<ul>
+<li>Potentials used for Modelling <a href="https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Tutorial_Potentials.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></li>
+<li>First Simulations <a href="https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Tutorial_Simulations.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></li>
+<li>Enhanced Sampling Methods: <a href="https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EnhancedSampling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></li>
+<li>Free Energy Calculations: <a href="https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_FreeEnergyCalculationSimulation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></li>
+<li>The Conveyorbelt Integration Scheme (advanced): <a href="https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_ConveyorBelt.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></li>
+<li>Enveloping Distribution Sampling (advanced): <a href="https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EDS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></li>
+</ul>
+</li>
 </ul>
 <h2 id="gromacs">
   GROMACS
@@ -225,7 +241,7 @@ https://github.com/alex-shpak/hugo-book
   <a class="anchor" href="#pdynamo">#</a>
 </h2>
 <ul>
-<li><a href="https://sites.google.com/site/gtkdynamo/tutorials">GTKDynamo and EasyHybrid series</a> (Jose Fernando R Bachega)
+<li><a href="https://sites.google.com/site/gtkdynamo/tutorials">GTKDynamo and EasyHybrid series</a> by Jose Fernando R Bachega
 <ul>
 <li><a href="https://sites.google.com/site/gtkdynamo/tutorials/tutorial-1">Cyclohexane reaction path</a></li>
 <li><a href="https://sites.google.com/site/gtkdynamo/tutorials/2---sn2---reaction-part---1">SN2 reaction - part 1</a></li>
@@ -238,6 +254,13 @@ https://github.com/alex-shpak/hugo-book
 </ul>
 </li>
 </ul>
+<h2 id="orca">
+  ORCA
+  <a class="anchor" href="#orca">#</a>
+</h2>
+<ul>
+<li><a href="https://www.orcasoftware.de/tutorials_orca/">ORCA tutorials series by the makers</a></li>
+</ul>
 </article>
  
       
@@ -247,9 +270,9 @@ https://github.com/alex-shpak/hugo-book
   <div class="flex flex-wrap justify-between">
 
 
-  <div><a class="flex align-center" href="https://github.com/pultar/qm.md/commit/ab9d3a34adf24d9d8fe8195630b0cad58d4c2d8d" title='Last modified by Felix Pultar | June 30, 2022' target="_blank" rel="noopener">
+  <div><a class="flex align-center" href="https://github.com/pultar/qm.md/commit/66c9b509904cbb78b562bcc6a413b686953ed148" title='Last modified by Felix Pultar | July 11, 2022' target="_blank" rel="noopener">
       <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>June 30, 2022</span>
+      <span>July 11, 2022</span>
     </a>
   </div>
 
@@ -293,6 +316,7 @@ https://github.com/alex-shpak/hugo-book
         <li><a href="#general">General</a></li>
         <li><a href="#gromacs">GROMACS</a></li>
         <li><a href="#pdynamo">pDynamo</a></li>
+        <li><a href="#orca">ORCA</a></li>
       </ul>
     </li>
   </ul>

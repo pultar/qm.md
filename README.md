@@ -4,8 +4,10 @@ Source of the homepage [qm.md](https://qm.md)
 
 ## What is it?
 
-Do you want to start using QM/MM MD? We are compiling resources that allow you to teach yourself!
+Want to get started with computational chemistry and molecular dynamics simulations? We got you covered and compile a list to instructive tutorials and valuable ressources. We focus on quantum chemistry (QC), molecular mechanics (MM), and molecular dyanmics (MD) simulations. Of course, this also includes combinations thereof like QM/MM MD. 
 
-## Contributions
+Check out the website at https://qm.md!
 
-Do you know a resource not included? Fork, branch, and open a PR. I am happy for any contribution!
+# Contribute
+
+Fork, branch, and send your PR! 💚 We are happy for any contribution from people with different skill levels and computational set-ups.
