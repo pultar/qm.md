@@ -57,3 +57,7 @@ Find here a growing list of tutorials.
   - [Charges per block](https://sites.google.com/site/gtkdynamo/tutorials/5---charges-per-block)
   - [Enzyme reaction](https://sites.google.com/site/gtkdynamo/tutorials/6---enzyme-reaction)
   - [Umbrella sampling](https://sites.google.com/site/gtkdynamo/tutorials/7---umbrella-sampling)
+
+## ORCA
+
+- [ORCA tutorials series by the makers](https://www.orcasoftware.de/tutorials_orca/)
