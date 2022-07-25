@@ -22,8 +22,8 @@ Find here a growing list of tutorials.
   - The Conveyorbelt Integration Scheme (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_ConveyorBelt.ipynb)
   - Enveloping Distribution Sampling (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EDS.ipynb)
 
-
-## GROMACS
+## MM
+### GROMACS
 
 - [Beginner tutorials series](http://www.mdtutorials.com/gmx/index.html) by Justin A. Lemkul, Virginia Tech
   - [Setting up simulations](http://www.mdtutorials.com/gmx/lysozyme/index.html)
@@ -46,7 +46,8 @@ Find here a growing list of tutorials.
   - [cp2k parameter special](https://www.youtube.com/watch?v=cAsmm5WaJc8)
   - [Third practical session](https://www.youtube.com/watch?v=jhsHRliw1sU)
 
-## pDynamo
+## QM/MM
+### pDynamo
 
 - [GTKDynamo and EasyHybrid series](https://sites.google.com/site/gtkdynamo/tutorials) by Jose Fernando R Bachega
   - [Cyclohexane reaction path](https://sites.google.com/site/gtkdynamo/tutorials/tutorial-1)
@@ -58,6 +59,13 @@ Find here a growing list of tutorials.
   - [Enzyme reaction](https://sites.google.com/site/gtkdynamo/tutorials/6---enzyme-reaction)
   - [Umbrella sampling](https://sites.google.com/site/gtkdynamo/tutorials/7---umbrella-sampling)
 
-## ORCA
+## QM Engines
+
+### ORCA
 
 - [ORCA tutorials series by the makers](https://www.orcasoftware.de/tutorials_orca/)
+
+
+### PSI4
+ - [PSI4 General Tutorial with Python API](https://psicode.org/psi4manual/master/psiapi.html)
+   -[DFT](https://psicode.org/psi4manual/master/dft.html#sec-dft) 
