@@ -67,4 +67,5 @@ Find here a growing list of tutorials.
 
 
 ### PSI4
- - [PSI4 Tutorial with Python API](https://psicode.org/psi4manual/master/psiapi.html)
+ - [PSI4 General Tutorial with Python API](https://psicode.org/psi4manual/master/psiapi.html)
+   -[DFT](https://psicode.org/psi4manual/master/dft.html#sec-dft) 
