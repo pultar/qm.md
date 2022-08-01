@@ -2,6 +2,6 @@
 headless: true
 ---
 
-- [**Tutorials**]({{< relref "docs/tutorials" >}})
+- [**Link List - Tutorials**]({{< relref "docs/linklist" >}})
 
 <br />

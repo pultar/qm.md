@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Tutorials"
+title: "Link list"
 ---
 
 # Introduction
@@ -22,7 +22,8 @@ Find here a growing list of tutorials.
   - The Conveyorbelt Integration Scheme (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_ConveyorBelt.ipynb)
   - Enveloping Distribution Sampling (advanced): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinikerlab/Ensembler/blob/master/examples/Example_EDS.ipynb)
 
-## MM
+## Molecular Mechanics
+
 ### GROMACS
 
 - [Beginner tutorials series](http://www.mdtutorials.com/gmx/index.html) by Justin A. Lemkul, Virginia Tech
@@ -46,7 +47,8 @@ Find here a growing list of tutorials.
   - [cp2k parameter special](https://www.youtube.com/watch?v=cAsmm5WaJc8)
   - [Third practical session](https://www.youtube.com/watch?v=jhsHRliw1sU)
 
-## QM/MM
+## Mixed QM/MM Software
+
 ### pDynamo
 
 - [GTKDynamo and EasyHybrid series](https://sites.google.com/site/gtkdynamo/tutorials) by Jose Fernando R Bachega
@@ -59,13 +61,29 @@ Find here a growing list of tutorials.
   - [Enzyme reaction](https://sites.google.com/site/gtkdynamo/tutorials/6---enzyme-reaction)
   - [Umbrella sampling](https://sites.google.com/site/gtkdynamo/tutorials/7---umbrella-sampling)
 
-## QM Engines
+## Quantum Mechanics (QM) Software
 
 ### ORCA
 
 - [ORCA tutorials series by the makers](https://www.orcasoftware.de/tutorials_orca/)
 
-
 ### PSI4
- - [PSI4 General Tutorial with Python API](https://psicode.org/psi4manual/master/psiapi.html)
-   -[DFT](https://psicode.org/psi4manual/master/dft.html#sec-dft) 
+
+- [PSI4 General Tutorial with Python API](https://psicode.org/psi4manual/master/psiapi.html)
+- [Introduction to DFT](https://psicode.org/psi4manual/master/dft.html#sec-dft) 
+
+## Cheminformatics Software
+
+### General
+
+- [Practical Cheminformatics by Pat Walters](https://practicalcheminformatics.blogspot.com/)
+- [Is life worth living blog on Cheminformatics](https://iwatobipen.wordpress.com/)
+
+### RDKit
+
+- [RDKit Documentation](https://www.rdkit.org/docs/index.html)
+- [The RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
+- [Getting started with RDKit in Python](https://www.rdkit.org/docs/GettingStartedInPython.html)
+- [Getting started with RDKit in C++](https://www.rdkit.org/docs/GettingStartedInC++.html)
+- [The RDKit Book](https://www.rdkit.org/docs/RDKit_Book.html)
+
